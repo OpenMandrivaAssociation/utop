@@ -4,7 +4,7 @@ Release:        1
 Summary:        An improved toplevel for OCaml
 License:        BSD-3-clause
 Group:          Development/Other
-URL:            http://forge.ocamlcore.org/projects/utop/
+URL:            https://forge.ocamlcore.org/projects/utop/
 Source0:        http://forge.ocamlcore.org/frs/download.php/1169/utop-%{version}.tar.gz
 BuildRequires:  ocaml-findlib
 BuildRequires:  ocaml-compiler-libs
