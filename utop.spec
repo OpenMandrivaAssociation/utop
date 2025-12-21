@@ -6,6 +6,7 @@ License:        BSD-3-clause
 Group:          Development/Other
 URL:            https://forge.ocamlcore.org/projects/utop/
 Source0:        http://forge.ocamlcore.org/frs/download.php/1169/utop-%{version}.tar.gz
+BuildRequires:	make
 BuildRequires:  ocaml-findlib
 BuildRequires:  ocaml-compiler-libs
 BuildRequires:  ocaml-lambda-term-devel
